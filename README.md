@@ -107,6 +107,8 @@ In the DELTA ecosystem, the ownership of anything posted by any user will be the
 
 <img src="https://raw.githubusercontent.com/DeltaNetCode/DeltaNode/main/Element/The-Sean-Devin-Foundation.jpg" align="left" style="zoom:80%;" />
 
+
+
 As an established private equity fund, the Sean Tiffany Foundation was established in 1996, headquartered in Singapore, with branches in eight countries and regions, including the United States, Europe and China. The fund mainly invests in the global equity, bond and financial derivatives markets, and owns several hedge funds and private equity investment funds. From 2009 to 2017, the fund managed by Sean Divan has achieved a compound investment return of around 20% for eight consecutive years, and has been rated as the most stable private equity fund in Asia by Business Week (Asia Pacific Edition). Since the transformation of the service blockchain, the Sean Tiffany Foundation in more than 5 years quantitative fund returns reached 70%. In terms of project investment, the Scion Vativan Fund has invested in a number of high-quality blockchain projects including "IPFS, EOS, COSMOS" and so on.
 
 **R3 Blockchain Consortium**
@@ -206,4 +208,28 @@ The first block of validation output proof 1, forever. Institutional investment 
 ```
 Output quantity=(Personal pledge/Overall pledge)*(1million-1million*1%)*1%
 ```
+
+There are 1,822,630 early seed users and rewards, of which 1,043,220 are 9,100 held by 66 full nodes over 12 months. And 191 validation nodes hold 1910, divided into 12 months and 910 SPV nodes together. Characteristic single address limit purchase 1 copy. The remaining 779,410 lockers were awarded 9,100 lockers by 50 SPV nodes covered by the whole node, and 910 lockers by 10 SPV nodes covered by the effect node, and the 12-month closure ended.
+
+Link assignment:Link DAO to get 10%USDT, ETH, BNB reward.
+
+Miners' fee distribution:A full node card enjoys a 30% miner bonus. A valid node card enjoys 20% miner's fee sharing.
+
+Node advantage: preferential access to DE; Market priority promotion right; Ecological voting rights; Preferential deployment of applications; Ecological right confirmation and circulation miners' fee sharing; Appreciation gains from high market consensus; Benefits from participating in the operation and promotion of ecological applications.
+
+Security and stability: Freedom of payment - you can pay and receive any amount of money anytime and anywhere. No bank holidays, no borders, no imposed restrictions; Very low fee - no or minimal fee for processing payments; Reduce the risk of transactions - transactions are secure and irrevocable; Transparency and neutrality - All information about the funding supply itself is stored in the block chain and can be checked and used by anyone in real time.
+
+Circulation value and application: platform media, miners' fees, voting rights, ecological value embodiment, industrial alliance circulation, global settlement.
+
+## Planning
+
+In March 2020, the Sean devin foundation launched the feasibility plan of digital WEB3.0.
+
+In August 2020, the Scien Devin Foundation cooperated with R3 Blockchain Alliance to finalize the 1.0 version business plan and business blueprint, launched the blockchain application platform "DELTA" in the era of WEB3.0, and organized the world's top blockchain technical talents to study, discuss and develop the DELTA ecological application platform. The expected completion period is 2-2.5 years.
+
+In March 2021, the digital asset "DE public chain" based on block technology was implemented. The proposed DE public chain provides higher security and payment convenience in the field of payment. The expected completion period is 1.5-3 years.
+
+In October 2021, the R3 Blockchain Alliance provided ecological thinking for the DELTA platform and added new concepts such as NFT and metaverse in response to the big changes in the global economic situation. And revise the 1.0 version business plan.
+
+In May 2022, the underlying architecture of the DELTA intelligent application platform was developed and passed the initial defense test.
 
