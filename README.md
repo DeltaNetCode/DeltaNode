@@ -173,49 +173,35 @@ In addition to finance, games, in social, sports, learning and other fields of h
 
 The DELTA intelligent application platform launched the incentive model of the platform, and the digital asset "DE public chain" based on block technology. The proposed DE public chain provides higher security and payment convenience in the field of payment. The expected completion time is 1.5-3 years.
 
-**Name:**DELTA Chain
+Name:DELTA Chain
 
-**Abbreviation: **DE(δ)
+Abbreviation: DE(δ)
 
-**Total amount: **
+Total amount: 3122631
 
-3122631
+Value:Vouchers for the DELTA platform
 
-**Value:**
+Issue Price:2USDT（0.002ETH/0.01BNB）
 
-Vouchers for the DELTA platform
+Underlying protocol: DNT-20
 
-**Issue Price:**
+Core algorithm: Kademlia algorithm (KAD algorithm)
 
-2USDT（0.002ETH/0.01BNB）
+Consensus mechanism: DPOS (collateralized proof of equity, rolling reduction strategy)
 
-**Underlying protocol: **
+Smart Contract: Solidity Smart Contracts. EVM + Formla strategy was used to develop, and the Turing-complete scripting language was tested using EVM simulator virtual machine.
 
-DNT-20
+Destroy reflux mechanism:PED+CIR (Permanent Destruction + Rehabilitation), destroyed to 910,000 pieces.
 
-**Core algorithm: **
+Composition of Identity: The whole network consists of full nodes, validation nodes and SPV nodes (simplified transaction verification) to maintain the stability and efficiency of blocks.
 
-Kademlia algorithm (KAD algorithm)
+Block the source: DE312263100000000000000000000000
 
-**Consensus mechanism: **
+Stable currency: USDE
 
-DPOS (collateralized proof of equity, rolling reduction strategy)
+**Distribution Scheme:**
 
-**Smart Contract: **
+The first block of validation output proof 1, forever. Institutional investment and financing, technical maintenance, and business development are each 100,000 pieces, 10% of which will be released every year. After 10 years of release, the main network will be awarded 1 million pieces for online effect maintenance, and the daily output will decrease by 1%.
 
-Solidity Smart Contracts. EVM + Formla strategy was used to develop, and the Turing-complete scripting language was tested using EVM simulator virtual machine.
 
-**Destroy reflux mechanism:**
-
-PED+CIR (Permanent Destruction + Rehabilitation), destroyed to 910,000 pieces.
-
-**Composition of Identity: **
-
-The whole network consists of full nodes, validation nodes and SPV nodes (simplified transaction verification) to maintain the stability and efficiency of blocks.
-
-**Block the source: **   DE312263100000000000000000000000
-
-**Stable currency: **   USDE
-
-**Distribution Scheme:**    The first block of validation output proof 1, forever. Institutional investment and financing, technical maintenance, and business development are each 100,000 pieces, 10% of which will be released every year. After 10 years of release, the main network will be awarded 1 million pieces for online effect maintenance, and the daily output will decrease by 1%.
 
