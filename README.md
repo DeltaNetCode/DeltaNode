@@ -105,11 +105,9 @@ In the DELTA ecosystem, the ownership of anything posted by any user will be the
 
 **The Sean Devin Foundation**
 
-As an established private equity fund, the Sean Tiffany Foundation was established in 1996, headquartered in Singapore, with branches in eight countries and regions, including the United States, Europe and China. The fund mainly invests in the global equity, bond and financial derivatives markets, and owns several hedge funds and private equity investment funds. From 2009 to 2017, the fund managed by Sean Divan has achieved a compound investment return of around 20% for eight consecutive years, and has been rated as the most stable private equity fund in Asia by Business Week (Asia Pacific Edition). Since the transformation of the service blockchain, the Sean Tiffany Foundation in more than 5 years quantitative fund returns reached 70%. In terms of project investment, the Scion Vativan Fund has invested in a number of high-quality blockchain projects including "IPFS, EOS, COSMOS" and so on.
-
 <img src="https://raw.githubusercontent.com/DeltaNetCode/DeltaNode/main/Element/The-Sean-Devin-Foundation.jpg" align="left" style="zoom:80%;" />
 
-
+As an established private equity fund, the Sean Tiffany Foundation was established in 1996, headquartered in Singapore, with branches in eight countries and regions, including the United States, Europe and China. The fund mainly invests in the global equity, bond and financial derivatives markets, and owns several hedge funds and private equity investment funds. From 2009 to 2017, the fund managed by Sean Divan has achieved a compound investment return of around 20% for eight consecutive years, and has been rated as the most stable private equity fund in Asia by Business Week (Asia Pacific Edition). Since the transformation of the service blockchain, the Sean Tiffany Foundation in more than 5 years quantitative fund returns reached 70%. In terms of project investment, the Scion Vativan Fund has invested in a number of high-quality blockchain projects including "IPFS, EOS, COSMOS" and so on.
 
 **R3 Blockchain Consortium**
 
@@ -175,31 +173,31 @@ In addition to finance, games, in social, sports, learning and other fields of h
 
 The DELTA intelligent application platform launched the incentive model of the platform, and the digital asset "DE public chain" based on block technology. The proposed DE public chain provides higher security and payment convenience in the field of payment. The expected completion time is 1.5-3 years.
 
-**Name:**  DELTA Chain
+**Name:**    DELTA Chain
 
-**Abbreviation: ** DE(δ)
+**Abbreviation: **    DE(δ)
 
-**Total amount: ** 3122631
+**Total amount: **    3122631
 
-**Value:**Vouchers for the DELTA platform
+**Value:**    Vouchers for the DELTA platform
 
-**Issue Price:**2USDT（0.002ETH/0.01BNB）
+**Issue Price:**    2USDT（0.002ETH/0.01BNB）
 
-**Underlying protocol:**DNT-20
+**Underlying protocol: **   DNT-20
 
-**Core algorithm:**Kademlia algorithm (KAD algorithm)
+**Core algorithm: **   Kademlia algorithm (KAD algorithm)
 
-**Consensus mechanism:**DPOS (collateralized proof of equity, rolling reduction strategy)
+**Consensus mechanism: **   DPOS (collateralized proof of equity, rolling reduction strategy)
 
-**Smart Contract:**Solidity Smart Contracts. EVM + Formla strategy was used to develop, and the Turing-complete scripting language was tested using EVM simulator virtual machine.
+**Smart Contract: **   Solidity Smart Contracts. EVM + Formla strategy was used to develop, and the Turing-complete scripting language was tested using EVM simulator virtual machine.
 
-**Destroy reflux mechanism:**PED+CIR (Permanent Destruction + Rehabilitation), destroyed to 910,000 pieces.
+**Destroy reflux mechanism:**    PED+CIR (Permanent Destruction + Rehabilitation), destroyed to 910,000 pieces.
 
-**Composition of Identity:**The whole network consists of full nodes, validation nodes and SPV nodes (simplified transaction verification) to maintain the stability and efficiency of blocks.
+**Composition of Identity: **   The whole network consists of full nodes, validation nodes and SPV nodes (simplified transaction verification) to maintain the stability and efficiency of blocks.
 
-**Block the source:**DE312263100000000000000000000000
+**Block the source: **   DE312263100000000000000000000000
 
-**Stable currency:**USDE
+**Stable currency: **   USDE
 
-**Distribution Scheme:**The first block of validation output proof 1, forever. Institutional investment and financing, technical maintenance, and business development are each 100,000 pieces, 10% of which will be released every year. After 10 years of release, the main network will be awarded 1 million pieces for online effect maintenance, and the daily output will decrease by 1%.
+**Distribution Scheme:**    The first block of validation output proof 1, forever. Institutional investment and financing, technical maintenance, and business development are each 100,000 pieces, 10% of which will be released every year. After 10 years of release, the main network will be awarded 1 million pieces for online effect maintenance, and the daily output will decrease by 1%.
 
