@@ -109,6 +109,8 @@ As an established private equity fund, the Sean Tiffany Foundation was establish
 
 <img src="https://raw.githubusercontent.com/DeltaNetCode/DeltaNode/main/Element/The-Sean-Devin-Foundation.jpg" align="left" style="zoom:80%;" />
 
+
+
 **R3 Blockchain Consortium**
 
 R3CEV is an R3 company founded in September 2015, which is responsible for the development of industry standards and use cases of synthetic banking blockchain technology. It is mainly committed to providing a channel for banks to explore blockchain technology and establish blockchain conceptual products. At present, more than 100 banks worldwide have joined the R3 alliance! Chief executive David Rutter says R3 has long believed that distributed ledger technology could transform financial services in the same way the Internet has transformed media and entertainment. After the formation of the alliance, a series of seminars were held. While details of the project are scarce, project representatives say R3 wants to build what it calls a "global financial structure," or blockchain and distributed ledger for the needs of the banking industry, and craft its inputs.
@@ -173,11 +175,11 @@ In addition to finance, games, in social, sports, learning and other fields of h
 
 The DELTA intelligent application platform launched the incentive model of the platform, and the digital asset "DE public chain" based on block technology. The proposed DE public chain provides higher security and payment convenience in the field of payment. The expected completion time is 1.5-3 years.
 
-**Name:**DELTA Chain
+**Name:**  DELTA Chain
 
-**Abbreviation:**DE(δ)
+**Abbreviation: ** DE(δ)
 
-**Total amount:**3122631
+**Total amount: ** 3122631
 
 **Value:**Vouchers for the DELTA platform
 
@@ -200,6 +202,4 @@ The DELTA intelligent application platform launched the incentive model of the p
 **Stable currency:**USDE
 
 **Distribution Scheme:**The first block of validation output proof 1, forever. Institutional investment and financing, technical maintenance, and business development are each 100,000 pieces, 10% of which will be released every year. After 10 years of release, the main network will be awarded 1 million pieces for online effect maintenance, and the daily output will decrease by 1%.
-$$
-Outputquantity
-$$
+
