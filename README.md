@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/DeltaNetCode/DeltaNode/main/Element/Deltalogo.png" style="zoom:6%;" />DELTA: Distributed Weight Determination In'telligent Application Platform
+# DELTA: Distributed Weight Determination In'telligent Application Platform
 
 ## Preface
 
