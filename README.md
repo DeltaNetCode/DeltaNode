@@ -173,13 +173,9 @@ In addition to finance, games, in social, sports, learning and other fields of h
 
 The DELTA intelligent application platform launched the incentive model of the platform, and the digital asset "DE public chain" based on block technology. The proposed DE public chain provides higher security and payment convenience in the field of payment. The expected completion time is 1.5-3 years.
 
-**Name:**
+**Name:**DELTA Chain
 
-DELTA Chain
-
-**Abbreviation: **
-
-DE(δ)
+**Abbreviation: **DE(δ)
 
 **Total amount: **
 
