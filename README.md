@@ -203,5 +203,7 @@ Stable currency: USDE
 
 The first block of validation output proof 1, forever. Institutional investment and financing, technical maintenance, and business development are each 100,000 pieces, 10% of which will be released every year. After 10 years of release, the main network will be awarded 1 million pieces for online effect maintenance, and the daily output will decrease by 1%.
 
-
+```
+Output quantity=(Personal pledge/Overall pledge)*(1million-1million*1%)*1%
+```
 
