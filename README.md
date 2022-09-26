@@ -107,9 +107,7 @@ In the DELTA ecosystem, the ownership of anything posted by any user will be the
 
 <img src="https://raw.githubusercontent.com/DeltaNetCode/DeltaNode/main/Element/The-Sean-Devin-Foundation.jpg" align="left" style="zoom:80%;" />
 
-
-
-
+# 
 
 As an established private equity fund, the Sean Tiffany Foundation was established in 1996, headquartered in Singapore, with branches in eight countries and regions, including the United States, Europe and China. The fund mainly invests in the global equity, bond and financial derivatives markets, and owns several hedge funds and private equity investment funds. From 2009 to 2017, the fund managed by Sean Divan has achieved a compound investment return of around 20% for eight consecutive years, and has been rated as the most stable private equity fund in Asia by Business Week (Asia Pacific Edition). Since the transformation of the service blockchain, the Sean Tiffany Foundation in more than 5 years quantitative fund returns reached 70%. In terms of project investment, the Scion Vativan Fund has invested in a number of high-quality blockchain projects including "IPFS, EOS, COSMOS" and so on.
 
