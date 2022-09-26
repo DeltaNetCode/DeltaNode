@@ -4,7 +4,7 @@
 
 > "People keep asking what Web 3.0 is. I think when scalable vector graphics are used massively on top of Web 2.0 -- where everything is corrugated and folded and doesn't look angular -- and a whole Semantic Web covers a lot of data, you have access to this incredible resource of data."「Tim Berners Lee(2006-5)」
 
->"Web 1.0 was dial-up, 50K average bandwidth, Web 2.0 was 1M average broadband, so Web3.0 should be a 10M bandwidth, full video network, that feels like Web3.0."「Netflix 创始人 Reed Hastings(2006-11)」
+>"Web 1.0 was dial-up, 50K average bandwidth, Web 2.0 was 1M average broadband, so Web3.0 should be a 10M bandwidth, full video network, that feels like Web3.0."「NetflixThe founder of Reed Hastings(2006-11)」
 
 >"The Web 3.0 approach to creating applications will be different. So far the term Web 2.0 has emerged mainly in response to a concept called "AJAX"...... My prediction for Web 3.0 will be a patchwork of applications, With some key characteristics: the application is relatively small, the data is in the Cloud, the application can run on any device (PC or mobile phone), the application is very fast and can be customized a lot, and the application spreads like a virus (social networks, email, etc.)."「EricSchmidt, CEO of Google (2007-8)」
 
