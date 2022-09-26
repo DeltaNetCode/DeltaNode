@@ -1,6 +1,4 @@
-# ![](https://raw.githubusercontent.com/DeltaNetCode/DeltaNode/main/Element/Delta.png)
-
-# DELTA: Distributed Weight Determination In'telligent Application Platform
+# ![](https://raw.githubusercontent.com/DeltaNetCode/DeltaNode/main/Element/Delta.png)  DELTA: Distributed Weight Determination In'telligent Application Platform
 
 ## Preface
 
