@@ -232,3 +232,34 @@ In October 2021, the R3 Blockchain Alliance provided ecological thinking for the
 
 In May 2022, the underlying architecture of the DELTA intelligent application platform was developed and passed the initial defense test.
 
+In October 2022, DELTA1.0 internal beta version and DE public chain test were officially launched, and interfaces for asset transfer, NFT production, node authorization and ecological KPI testing were opened.
+
+In December 2022, DELTA1.0 version was officially launched after passing the pressure test, and the distributed database of DE public chain beta version was opened. The ecological API interface is opened to provide global cross-chain technology enthusiasts to jointly develop and govern the ecosystem.
+
+In February 2023, DELTA2.0 version went online in internal test, opening NFT trading and opening the metaverse ecology.
+
+In March 2023, DELTA ecological platform entered the era of ecological application, enabling global economic and technological strategy, DE main network online, innovative technology application layer, cross-chain, TPS, data storage, etc.
+
+In 2025, DELTA ecosystem platform will enter the 3.0 era, with node enabling to serve millions of ecosystems, DAO members to 10 million, and DE public chain price to reach 10,000 dollars.
+
+In 2030 DELTA Ecology will enter multi-dimensional services, fully decentralized operation, DE as payment vouchers and data storage incentives. With global applications estimated to be worth $800 billion.
+
+## Vision
+
+Fair and open, everyone trusted, all members autonomous, unlimited value are building a digital-intelligence service platform centered on individuals.
+
+DELTA is strongly built around multiple dimensions:
+
+Asset storage function: Any asset can be synchronized on the chain. Switching between different wallets does not affect the increase or decrease of assets, which greatly improves the communication between assets.
+
+Cross-chain conversion: Assets on different chains can be exchanged with each other at any cost.
+
+Blockchain ecological application construction: open KPI, new ecological industry integrating more blockchain technology, including: finance, medical, IP copyright, education, Internet of things, charity, communication and social, sharing economy, culture and entertainment, etc.
+
+NFT Digital Collection: Open creation magic (mold) board, all users can hold DE open creation, distribution, trading rights. Private IP addresses can be privatized without interference from third-party products and human beings.
+
+Metaverse ecological scene: open metaverse scene, so that users can experience the happiness of the metaverse world.
+
+## Conclusion
+
+We have proposed a trust-independent digital intelligent application platform. Starting with a proof-of-interest system of PLEDGES, which provides strong incentive block security rights to record public transaction histories in peer-to-peer networks, as long AS HONEST nodes control the majority OF DE PLEDGES, transaction histories will quickly become computationally immutable to attackers. Networks are robust because of their structural simplicity. Nodes need very little coordination to work simultaneously. They don't need to be authenticated because the information isn't sent to a particular location, it just needs to be spread as far as possible. Nodes can leave and rejoin the network at any time, simply by removing the collated proof of interest chain as evidence of an event that occurred when they left. The next pledge will be linked to ensure the safe operation of the entire network forever, unless less than 0, then all data will be forced to destroy clearly, I believe that as long as there is more than 0, the entire network will not receive any attack and damage. Any needed rules and incentives can be strengthened through this consensus mechanism.
