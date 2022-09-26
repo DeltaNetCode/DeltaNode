@@ -173,27 +173,49 @@ In addition to finance, games, in social, sports, learning and other fields of h
 
 The DELTA intelligent application platform launched the incentive model of the platform, and the digital asset "DE public chain" based on block technology. The proposed DE public chain provides higher security and payment convenience in the field of payment. The expected completion time is 1.5-3 years.
 
-**Name:**    DELTA Chain
+**Name:**
 
-**Abbreviation: **    DE(δ)
+DELTA Chain
 
-**Total amount: **    3122631
+**Abbreviation: **
 
-**Value:**    Vouchers for the DELTA platform
+DE(δ)
 
-**Issue Price:**    2USDT（0.002ETH/0.01BNB）
+**Total amount: **
 
-**Underlying protocol: **   DNT-20
+3122631
 
-**Core algorithm: **   Kademlia algorithm (KAD algorithm)
+**Value:**
 
-**Consensus mechanism: **   DPOS (collateralized proof of equity, rolling reduction strategy)
+Vouchers for the DELTA platform
 
-**Smart Contract: **   Solidity Smart Contracts. EVM + Formla strategy was used to develop, and the Turing-complete scripting language was tested using EVM simulator virtual machine.
+**Issue Price:**
 
-**Destroy reflux mechanism:**    PED+CIR (Permanent Destruction + Rehabilitation), destroyed to 910,000 pieces.
+2USDT（0.002ETH/0.01BNB）
 
-**Composition of Identity: **   The whole network consists of full nodes, validation nodes and SPV nodes (simplified transaction verification) to maintain the stability and efficiency of blocks.
+**Underlying protocol: **
+
+DNT-20
+
+**Core algorithm: **
+
+Kademlia algorithm (KAD algorithm)
+
+**Consensus mechanism: **
+
+DPOS (collateralized proof of equity, rolling reduction strategy)
+
+**Smart Contract: **
+
+Solidity Smart Contracts. EVM + Formla strategy was used to develop, and the Turing-complete scripting language was tested using EVM simulator virtual machine.
+
+**Destroy reflux mechanism:**
+
+PED+CIR (Permanent Destruction + Rehabilitation), destroyed to 910,000 pieces.
+
+**Composition of Identity: **
+
+The whole network consists of full nodes, validation nodes and SPV nodes (simplified transaction verification) to maintain the stability and efficiency of blocks.
 
 **Block the source: **   DE312263100000000000000000000000
 
