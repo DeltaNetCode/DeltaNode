@@ -1,6 +1,6 @@
 # ![](https://raw.githubusercontent.com/DeltaNetCode/DeltaNode/main/Element/Delta.png)  DELTA: Distributed Weight Determination In'telligent Application Platform
 
-[![](https://img.shields.io/badge/Twitter-@web3_delta-blue.svg?style=plastic)](https://twitter.com/web3_delta/)     [![](https://img.shields.io/badge/Telegram-@Deltas_web-orange.svg?style=plastic,url)](t.me/Deltasweb)
+[![](https://img.shields.io/badge/Twitter-@web3_delta-blue.svg?style=plastic)](https://twitter.com/web3_delta/)     [![](https://img.shields.io/badge/Telegram-@Deltas_web-orange.svg?style=plastic)](t.me/Deltasweb)
 
 ## Preface
 
